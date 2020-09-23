@@ -1,5 +1,7 @@
 <?php include 'includes/header.php';
-
+/*Constantes en una clase
+ *No requieren ser instanciadas
+ * */
 class MenuRestaurant {
     public $nombre;
     public $precio;
@@ -33,6 +35,10 @@ class MenuRestaurant {
 class Bebida extends MenuRestaurant {
     public $medida;
 
+    //Definir constantes: Deben estar todas en mayúsculas
+    const CON_ALCOHOL = 1;
+    const SIN_ALCOHOL = 0;
+
     public function __construct( $nombre, $precio, $medida ) { 
         parent::__construct( $nombre, $precio  );
         $this->medida = $medida;
@@ -46,3 +52,6 @@ class Bebida extends MenuRestaurant {
         return $this->medida;
     }
 }
+
+echo Bebida::CON_ALCOHOL;
+echo Bebida::SIN_ALCOHOL;
