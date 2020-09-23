@@ -5,10 +5,7 @@
 
  interface RestauranteInterface {
      public function getNombre();
-
      public function getPrecio() : int;
-
-
 
  }
 class MenuRestaurant implements RestauranteInterface {
