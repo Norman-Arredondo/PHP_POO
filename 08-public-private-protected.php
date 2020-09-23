@@ -1,15 +1,27 @@
 <?php include 'includes/header.php';
+/*Modificadores de acceso: Todos los atributos, propiedades, métodos, deben de tener un modificador de acceso
+ *                          Le va a permitir a el código acceder a ciertos valores o restringir su acceso
+ *
+ *Public: Se puede acceder en cualquier lugar, ya sea en la clase o en el objeto
+ *
+ * Protected: Significa que sólo se puede acceder a él por medio de la clase
+ *            Para poder acceder a los valores que están definidos como protected tienes que hacerlo por medio de un getter o una funcion
+ *            Pero tiene que estar definido en la clase
+ *
+ * Private: No puede ser accedido por las clases hijas
+ **/
 
 class MenuRestaurant {
-    public $nombre;
-    public $precio; 
+    private $nombre;/*Public: puede acceder en cualquier lugar, ya sea en la clase o en el objeto
+                    * Protected: Significa que sólo se puede acceder a él por medio de la clase*/
+    public $precio;
 
     public function __construct( $nombre, $precio ) { 
         $this->nombre = $nombre;
         $this->precio = $precio;
     }
 
-    public function getNombre() 
+    private function getNombre()
     {
         return $this->nombre;
     }
@@ -49,4 +61,8 @@ class Postre extends MenuRestaurant {
         return $this->peso;
     }
 }
+
+$postre = new Postre('Pastel de chocolate',100,'150g');
+echo $postre->nombre; //No se puede porque es protected; con private tampoco
+echo $postre->getNombre();//Se puede porque el getter es public pero si se cambia a private no lo muestra
 
