@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="432aa45c-1bcf-4895-a661-d61be978da7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-interfaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/13-interfaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/14-namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Empleado.php" beforeDir="false" afterPath="$PROJECT_DIR$/Empleado.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1hg3FaNaOcogTjayqO5VLb95Jjo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/tools/php74/php.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432aa45c-1bcf-4895-a661-d61be978da7d" name="Default Changelist" comment="" />
+      <created>1600418806685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600418806685</updated>
+      <workItem from="1600418808994" duration="299000" />
+      <workItem from="1600481464086" duration="709000" />
+      <workItem from="1600490784359" duration="183000" />
+      <workItem from="1600499780105" duration="504000" />
+      <workItem from="1600500389995" duration="763000" />
+      <workItem from="1600503745540" duration="815000" />
+      <workItem from="1600504582639" duration="172000" />
+      <workItem from="1600504782661" duration="444000" />
+      <workItem from="1600648244657" duration="4131000" />
+      <workItem from="1600836589116" duration="10402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="24" key="#CLI_Interpreters" timestamp="1600503960166">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="24" key="#CLI_Interpreters/0.0.1366.738@0.0.1366.738" timestamp="1600503960166" />
+    <state x="438" y="193" key="#Notifications" timestamp="1600501056229">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1600501056229" />
+    <state x="390" y="12" key="#PHP" timestamp="1600503961094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="12" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1600503961094" />
+    <state x="482" y="77" key="#Web_Browsers" timestamp="1600837087092">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="482" y="77" key="#Web_Browsers/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1600837087092" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600501098579">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1600501098579" />
+    <state x="467" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1600841151161">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="467" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1600841151161" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1600837166264">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1600837166264" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600503938830" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1600838585154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1600838585154" />
+    <state x="1511" y="0" key="SettingsEditor/0.0.1366.738/1366.0.1280.570@1366.0.1280.570" timestamp="1600505153194" />
+    <state x="155" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600504559232" />
+    <state x="475" y="227" key="scopes" timestamp="1600838798117">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="227" key="scopes/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1600838798117" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600504449099">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1600504449099" />
+  </component>
+</project>
